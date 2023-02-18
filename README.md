@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on https://toicodemoingay.com
+- 📝 I regularly write articles on [toicodemoingay.com](https://toicodemoingay.com)
 
 - 💬 Ask me about **AWS Cloud**
 
