@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minh Hung PHAN (John Phan)</h1>
-<h3 align="center">A passionate Cloud Developer from Paris</h3>
+<h3 align="center">A passionate Cloud Architect from Paris</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/208/208553.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhhungphan&label=Profile%20views&color=0e75b6&style=flat" alt="minhhungphan" /> </p>
 
-- 🔭 I’m currently working on **My own company**
+- 🔭 I’m currently working for **Softeam Group**
 
 - 🌱 I’m currently learning **DevOps**
 
