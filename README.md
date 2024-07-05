@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working for **Softeam Group**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning to become **AWS Authorized Instructor**
 
 - 📝 I regularly write articles on [toicodemoingay.com](https://toicodemoingay.com)
 
-- 💬 Ask me about **AWS Cloud**
+- 💬 Ask me about **AWS Cloud**, **DevOps**, and **Docker Container**.
 
 - ⚡ Fun fact **I can solve a 3x3 Rubik's cube BLINDFOLDED**
 
