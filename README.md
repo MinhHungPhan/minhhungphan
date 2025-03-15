@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning to become **AWS Authorized Instructor**
 
-- 📝 I regularly write articles on [toicodemoingay.com](https://toicodemoingay.com)
+- 📝 I regularly make videos about Cloud Computing on [kientree.com](https://www.youtube.com/@kientree)
 
 - 💬 Ask me about **AWS Cloud**, **DevOps**, and **Docker Container**.
 
