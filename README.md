@@ -16,11 +16,26 @@
 - ⚡ Fun fact **I can solve a 3x3 Rubik's cube BLINDFOLDED**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/minh-hung-phan-236433140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-hung-phan-236433140" height="30" width="40" /></a>
-<a href="https://fb.com/phanminhmun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phanminhmun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kientree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kien tree" height="30" width="40" /></a>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://linkedin.com/in/minh-hung-phan-236433140" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+      </a><br>LinkedIn
+    </td>
+    <td align="center" width="80">
+      <a href="https://fb.com/phanminhmun" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
+      </a><br>Facebook
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.youtube.com/@kientree" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/>
+      </a><br>YouTube
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
